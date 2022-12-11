@@ -15,7 +15,7 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-# My homework and practice on courses of testing
+### My homework and practice on courses of testing
 https://docs.google.com/spreadsheets/d/13lUV6xMew2MEsvULujievcIKIS_edtZmBtGEIr9YL9E/edit#gid=680832445
 
 Telegram-bot bug-reports https://trello.com/b/nq8owJWQ/bot-testing
