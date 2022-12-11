@@ -1,7 +1,8 @@
 # QA-
 
 ## My CV
-[Link to my CV](https://samara.hh.ru/resume/b73460afff0b70c3990039ed1f6c514430746a)
+[Ссылка на моё резюме](https://samara.hh.ru/resume/b73460afff0b70c3990039ed1f6c514430746a)
+
 Связаться со мной можно в Telegram https://t.me/Gauju9977
 
 My homework and practice on courses of testing
