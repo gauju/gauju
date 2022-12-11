@@ -1,6 +1,6 @@
-## QA-
+# QA-
 
-# My CV
+## Резюме
 [Ссылка на моё резюме](https://samara.hh.ru/resume/b73460afff0b70c3990039ed1f6c514430746a)
 
 Связаться со мной можно в Telegram https://t.me/Gauju9977
