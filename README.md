@@ -25,5 +25,5 @@
 
 https://docs.google.com/spreadsheets/d/13lUV6xMew2MEsvULujievcIKIS_edtZmBtGEIr9YL9E/edit#gid=680832445
 
-# Telegram-bot bug-reports 
+### Telegram bot bug-reports 
 https://trello.com/b/nq8owJWQ/bot-testing
