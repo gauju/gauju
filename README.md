@@ -19,10 +19,11 @@
 ### My homework and practice on courses of testing
 - [Test-Suites and Test-Cases](https://github.com/gauju/Test-Cases)
 - [Bug-Reports](https://github.com/gauju/Bug-Reports)
-- [SQL-запросы](https://github.com/gauju/SQL--)
+- [SQL-Requests](https://github.com/gauju/SQL--)
 - [Postman-collections](https://github.com/gauju/Postman-Collection)
 - [Certifications](https://github.com/gauju/Certifications)
 
 https://docs.google.com/spreadsheets/d/13lUV6xMew2MEsvULujievcIKIS_edtZmBtGEIr9YL9E/edit#gid=680832445
 
-Telegram-bot bug-reports https://trello.com/b/nq8owJWQ/bot-testing
+# Telegram-bot bug-reports 
+https://trello.com/b/nq8owJWQ/bot-testing
