@@ -1,7 +1,7 @@
-# Я начинающий Тестировщик / QA engineer
+# I'm Junior QA engineer
 
-## Резюме
-[Ссылка на моё резюме](https://samara.hh.ru/resume/b73460afff0b70c3990039ed1f6c514430746a)
+## CV
+[Link on my CV](https://samara.hh.ru/resume/b73460afff0b70c3990039ed1f6c514430746a)
 
 ### Languages and tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
